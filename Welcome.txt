@@ -1,0 +1,3 @@
+print ("Welcome everybody")
+print ("Добропожаловать")
+print ("Добропожаловать")
